@@ -1,0 +1,27 @@
+D:\C# II\WageCalculator\WageCalculator\bin\Debug\netcoreapp3.1\WageCalculator.exe
+D:\C# II\WageCalculator\WageCalculator\bin\Debug\netcoreapp3.1\WageCalculator.deps.json
+D:\C# II\WageCalculator\WageCalculator\bin\Debug\netcoreapp3.1\WageCalculator.runtimeconfig.json
+D:\C# II\WageCalculator\WageCalculator\bin\Debug\netcoreapp3.1\WageCalculator.runtimeconfig.dev.json
+D:\C# II\WageCalculator\WageCalculator\bin\Debug\netcoreapp3.1\WageCalculator.dll
+D:\C# II\WageCalculator\WageCalculator\bin\Debug\netcoreapp3.1\WageCalculator.pdb
+D:\C# II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.csprojAssemblyReference.cache
+D:\C# II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.AssemblyInfoInputs.cache
+D:\C# II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.AssemblyInfo.cs
+D:\C# II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.csproj.CoreCompileInputs.cache
+D:\C# II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.dll
+D:\C# II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.pdb
+D:\C# II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.genruntimeconfig.cache
+D:\C#II\WageCalculator\WageCalculator\bin\Debug\netcoreapp3.1\WageCalculator.exe
+D:\C#II\WageCalculator\WageCalculator\bin\Debug\netcoreapp3.1\WageCalculator.deps.json
+D:\C#II\WageCalculator\WageCalculator\bin\Debug\netcoreapp3.1\WageCalculator.runtimeconfig.json
+D:\C#II\WageCalculator\WageCalculator\bin\Debug\netcoreapp3.1\WageCalculator.runtimeconfig.dev.json
+D:\C#II\WageCalculator\WageCalculator\bin\Debug\netcoreapp3.1\WageCalculator.dll
+D:\C#II\WageCalculator\WageCalculator\bin\Debug\netcoreapp3.1\WageCalculator.pdb
+D:\C#II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.csproj.AssemblyReference.cache
+D:\C#II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.AssemblyInfoInputs.cache
+D:\C#II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.AssemblyInfo.cs
+D:\C#II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.csproj.CoreCompileInputs.cache
+D:\C#II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.dll
+D:\C#II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.pdb
+D:\C#II\WageCalculator\WageCalculator\obj\Debug\netcoreapp3.1\WageCalculator.genruntimeconfig.cache
